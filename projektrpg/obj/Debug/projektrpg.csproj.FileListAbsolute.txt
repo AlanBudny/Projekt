@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\c#\projektrpg\projektrpg\obj\Debug\projektrpg.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\c#\projektrpg\projektrpg\obj\Debug\projektrpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\c#\projektrpg\projektrpg\obj\Debug\projektrpg.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\c#\projektrpg\projektrpg\bin\Debug\projektrpg.exe.config
+C:\Users\Dell\Desktop\c#\projektrpg\projektrpg\bin\Debug\projektrpg.exe
+C:\Users\Dell\Desktop\c#\projektrpg\projektrpg\bin\Debug\projektrpg.pdb
+C:\Users\Dell\Desktop\c#\projektrpg\projektrpg\obj\Debug\projektrpg.exe
+C:\Users\Dell\Desktop\c#\projektrpg\projektrpg\obj\Debug\projektrpg.pdb
